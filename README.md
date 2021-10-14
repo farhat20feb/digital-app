@@ -1,10 +1,9 @@
-# first-app
+# Digital Payment App On Clojure
 
-FIXME: description
+App for Digital Payment
 
 ## Installation
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
